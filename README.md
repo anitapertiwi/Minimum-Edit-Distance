@@ -1,7 +1,6 @@
 #Minimum-Edit-Distance Prototype by Anita Dyah Pertiwi-1401309
 
-This is code to find minimum edit distance from 2 words.
-This code using Python, so, it can run on console.
+This is code to find minimum edit distance from 2 words written in Python.
 
 Example words to use this code:
 word1: anita
