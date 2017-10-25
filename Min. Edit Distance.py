@@ -3,8 +3,8 @@ print("|MINIMUM EDIT DISTANCE PROTOTYPE|")
 print("|ANITA DYAH PERTIWI      1401309|")
 print("|===============================|")
 
-word1=input("Put your first text here: ")
-word2=input("Put your second text here: ")
+word1=input("Put your first text here: ") #example: halo
+word2=input("Put your second text here: ") #example: hallo
 
 #min_ed is a function to find minimum edit distance from 2 words that has input by user, 
 def min_ed(s1, s2):
